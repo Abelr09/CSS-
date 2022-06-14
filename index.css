@@ -1,0 +1,41 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.padre{
+ background: #fff;
+}
+.header{
+    background: #072227;
+}
+.menu{
+    background: #C19277;
+}
+.nav{
+    background: #C19277;
+}
+.social{
+    background: #C19277;
+}
+.section{
+    background: #4FBDBA;
+}
+.articulos{
+    background: #816797;
+}
+.aside{
+        background:#71c7ec;
+}
+.publicidad{
+    background: #ff9a00;
+}
+.footer{
+    background: #AEFEFF;
+}
+.texto-principal{
+    background: #51557E; 
+}
+    h1{
+        background: #D6D5A8;
+    }
