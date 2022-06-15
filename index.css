@@ -13,24 +13,24 @@
         flex-flow: column nowrap;
     }
 .menu{
-    background: #4b3832;
+    background: #007777;
     display: flex;
     flex-flow: row nowrap;
     height: 100px;
     align-items: center;
 }
     .logo{
-        background: #C19277;
+        background:	#243447;
         flex: 1 1 auto;
         height: 30px;
     }
     .nav{
-        background: #C19277;
+        background: #243447;
         flex: 5 1 auto;
         height: 30px;
     }
 .social{
-    background: #C19277;
+    background: #243447;
     flex: 1 1 auto;
     height: 30px;
 }
